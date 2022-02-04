@@ -1,0 +1,17 @@
+http://seoprodesigner.com/sites/inv/
+
+main office
+sahan
+ishan2020
+
+FTP Username: inv@seoprodesigner.com
+FTP server: ftp.seoprodesigner.com
+ftp.seoprodesigner.com
+Ftp Password : invnew2021
+
+cPanel login
+http://seoprodesigner.com/cpanel
+seoprodesigner
+@#Sahan2040
+
+Db Name : barcodesystemdb
